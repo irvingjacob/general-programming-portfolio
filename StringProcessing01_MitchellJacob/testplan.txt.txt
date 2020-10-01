@@ -1,3 +1,0 @@
-To test this project, I inputted a variety of different words making sure each contained different 
-letters and vowels including different capitalizations. Then i tested them both forwards and backwards.
-when the user types in x, the program quits. The outputs function according to the plan. 

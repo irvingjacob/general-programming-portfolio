@@ -1,0 +1,22 @@
+Testing this project
+1) Input validation:
+User can enter whatever they wish. They are instructed that if they enter values that don't work, it
+will default to a specific value. They can input colors in the form of #XXXXXX or 'colorname'
+In testing the HTML response, it worked every time.
+2) structuring classes
+I took each class and seperated them bit by bit. I started by making an html class that had everything
+in it. These main values are h1 tags and pTags. In development, I realized style and table should not 
+be a part of this class to maintain efficiency, so they were taken out and put into their own.
+To test the functionality of the classes, I bit by bit sent the user inputted values or hard coded
+strings into the generate finctions, and then checked the output html to ensure that it was correct.
+3)stlye sheet and table
+the style sheet was the most easily constructed. the default constructor set plain values and the 
+overloaded allowed users to select their values. The table was not quite so easy. For documentation 
+about inputting the file, see files lab as that's where most all the processing for fil input came from
+I did have some issues with the set up of the table and determining where the tr tags should go. 
+I'm sure there is a much more efficient way to do it than how I did however.
+4) file outputs
+After running the code several times, I could see where issues were based on these debug logs, and if
+certain portions of my code ran or didn't ran. Pretty helpful.
+5) I tested the overall html by checking the webpage and seeing how things would adjust based off of 
+different outputs. 
