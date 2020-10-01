@@ -1,0 +1,18 @@
+Testing this project was a lot of work.
+
+The first test was validation of input. I input a variety of valid inputs and garbage inputs to
+ensure that the console was only taking useful data. The valid entries were numbers 1-9. any numbers
+greater or lower than those needed to promt the user to enter something different. However, I also
+had to ensure that the numbers were handled correctly, as the input of the numebr 9 had a specific 
+purpose. In that scenario, we accepted the number 9 as valid output but I had to ensure it had seperate 
+functionality. 
+
+Afterwards, I had to make sure the guesses were being stored properly and couldn't be guessed twice.
+I did this using two other arrays that held matched numbers and the guessed numbers. if they weren't
+the preloaded value AND they were the same value, then the user guessed correctly. Each time the user
+guessed correctly that value needed to be stored so they couldn't cheese the game into thinking they 
+had won. 
+
+I tested different coordinates that I knew matched or didnt match to ensure that the game always output 
+and stored values for successes and attempts correctly.
+

@@ -1,0 +1,5 @@
+﻿  StringProcessing01_MitchellJacob.cpp
+C:\Users\jmitc\Documents\ProgrammingPortfolio\programming-portfolio\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob.cpp(19,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jmitc\Documents\ProgrammingPortfolio\programming-portfolio\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob.cpp(24,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jmitc\Documents\ProgrammingPortfolio\programming-portfolio\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob\StringProcessing01_MitchellJacob.cpp(36,22): warning C4018: '<': signed/unsigned mismatch
+  StringProcessing01_MitchellJacob.vcxproj -> C:\Users\jmitc\Documents\ProgrammingPortfolio\programming-portfolio\StringProcessing01_MitchellJacob\Debug\StringProcessing01_MitchellJacob.exe
