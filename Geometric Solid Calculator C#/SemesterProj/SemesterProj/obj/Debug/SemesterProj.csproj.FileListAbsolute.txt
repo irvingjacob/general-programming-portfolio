@@ -1,0 +1,20 @@
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.exe.config
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.exe
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.pdb
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csprojAssemblyReference.cache
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.Form1.resources
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.Properties.Resources.resources
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csproj.GenerateResource.cache
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csproj.CoreCompileInputs.cache
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.exe
+C:\Users\jmitc\Documents\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.pdb
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.exe.config
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.exe
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\bin\Debug\SemesterProj.pdb
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csprojAssemblyReference.cache
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.Form1.resources
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.Properties.Resources.resources
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csproj.GenerateResource.cache
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.csproj.CoreCompileInputs.cache
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.exe
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\SemesterProject\SemesterProj\SemesterProj\obj\Debug\SemesterProj.pdb
