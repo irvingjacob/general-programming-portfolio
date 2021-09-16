@@ -1,0 +1,18 @@
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\obj\x86\Debug\MultiProjectTemplateV2.csprojAssemblyReference.cache
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\obj\x86\Debug\MultiProjectTemplateV2.csproj.CoreCompileInputs.cache
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\bin\Debug\MultiProjectTemplateV2.exe
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\bin\Debug\MultiProjectTemplateV2.pdb
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\obj\x86\Debug\MultiProjectTemplateV2.exe
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColorsV2\obj\x86\Debug\MultiProjectTemplateV2.pdb
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.csprojAssemblyReference.cache
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.csproj.CoreCompileInputs.cache
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.exe
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.pdb
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\bin\Debug\MultiProjectTemplateV2.exe
+C:\Users\jmitc\Documents\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\bin\Debug\MultiProjectTemplateV2.pdb
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\bin\Debug\MultiProjectTemplateV2.exe
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\bin\Debug\MultiProjectTemplateV2.pdb
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.csprojAssemblyReference.cache
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.csproj.CoreCompileInputs.cache
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.exe
+F:\UAkronUndergradCS\UAKRON FALL 2019\Advanced Programming in C#\Ch07_Exercises_Jacob_Mitchell\obj\x86\Debug\MultiProjectTemplateV2.pdb

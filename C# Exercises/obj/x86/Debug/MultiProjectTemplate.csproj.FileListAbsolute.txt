@@ -1,0 +1,21 @@
+X:\My Documents\LCCC Courses\CISS Courses\CISS221\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\My Documents\LCCC Courses\CISS Courses\CISS221\Sample_Programs\CS4\MultiProjectTemplate\bin\Debug\MultiProjectTemplate.exe
+X:\My Documents\LCCC Courses\CISS Courses\CISS221\Sample_Programs\CS4\MultiProjectTemplate\bin\Debug\MultiProjectTemplate.pdb
+X:\My Documents\LCCC Courses\CISS Courses\CISS221\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\MultiProjectTemplate.exe
+X:\My Documents\LCCC Courses\CISS Courses\CISS221\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\MultiProjectTemplate.pdb
+X:\My Documents\LCCC Courses\CISS Courses\CISS222\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\MultiProjectTemplate.exe
+X:\My Documents\LCCC Courses\CISS Courses\CISS222\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\MultiProjectTemplate.pdb
+X:\My Documents\LCCC Courses\CISS Courses\CISS222\Sample_Programs\CS4\MultiProjectTemplate\bin\Debug\MultiProjectTemplate.exe
+X:\My Documents\LCCC Courses\CISS Courses\CISS222\Sample_Programs\CS4\MultiProjectTemplate\bin\Debug\MultiProjectTemplate.pdb
+X:\My Documents\LCCC Courses\CISS Courses\CISS222\Sample_Programs\CS4\MultiProjectTemplate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WorkArea\CISS222\CISS222_Course_Files_Copied_From_External_Drive\Sample_Programs\CS5\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.exe
+C:\WorkArea\CISS222\CISS222_Course_Files_Copied_From_External_Drive\Sample_Programs\CS5\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.pdb
+C:\WorkArea\CISS222\CISS222_Course_Files_Copied_From_External_Drive\Sample_Programs\CS5\MultiProjectTemplateWithColors\bin\Debug\MultiProjectTemplate.exe
+C:\WorkArea\CISS222\CISS222_Course_Files_Copied_From_External_Drive\Sample_Programs\CS5\MultiProjectTemplateWithColors\bin\Debug\MultiProjectTemplate.pdb
+C:\WorkArea\CISS222\CISS222_Course_Files_Copied_From_External_Drive\Sample_Programs\CS5\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.csprojResolveAssemblyReference.cache
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\bin\Debug\MultiProjectTemplate.exe
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\bin\Debug\MultiProjectTemplate.pdb
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.csprojAssemblyReference.cache
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.csproj.CoreCompileInputs.cache
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.exe
+C:\WorkArea\CISS222\Programs_To_Grade\MultiProjectTemplateWithColors\obj\x86\Debug\MultiProjectTemplate.pdb
