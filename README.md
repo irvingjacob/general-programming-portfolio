@@ -1,3 +1,4 @@
 # programming-portfolio
 Jacob Irving Mitchell
-Variety of Programs in C++, Java, C#, Python and Visual Basic
+Web Developer and Cofounder of Frischly Made Tech: frischlymade.tech
+Variety of programs and projects written in C++, Java, C#, Python and Visual Basic
