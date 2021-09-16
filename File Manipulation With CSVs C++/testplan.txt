@@ -1,0 +1,23 @@
+Testing this program was several steps.
+
+First, making sure my input was validated. Simple. Just type in garbage, make sure it prompts again, 
+type it right, and viola, it works.
+
+Next is actually making sure what I'm doing with files is right. I set up my infile and tested
+(I believe there might be scrap comments in my code of this stage) that I could access what is in 
+it by outputting it to the console. Golden.
+
+Next, outfiles. I made a few test files not included in turning this assignment in in which I just had
+simple text documents that I hard coded hello worlds into. Perfect.
+
+SO now that I can output files, I can start working with the data I need. Well, no, because I did it
+wrong. I opened my files in the constructor and then tried to open them again in a loop no less. In trying
+to manipulate data from my files, I would only ever get the last entry as it would overwrite rather 
+than append. Take out the open statements, whatya know, it works when it's only opened once. 
+
+Now the actual processing. Simple console out statements made it easy to ensure what I had in my headers 
+array was correct. And simply opening the output files after I closed the program would show me
+if I was either a column off, fetching the wrong data, or if my logic was just off and nothing was
+happening at all.
+
+Testing this program was actually considerably fun. And in the end, it all worked.

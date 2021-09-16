@@ -1,0 +1,14 @@
+Jacob Mitchell - Files Part 2
+
+https://www.kaggle.com/drgilermo/nba-players-stats/data#
+
+I did not edit the base csv file
+
+Everything I included in the assignment works and works fine. I did not finish working with the 
+text qualifiers. I included some logic on how they should work and how it would go if I included
+them. You will see it in the program. Most all issues are included in comments in the code.
+
+My biggest standstills are really just that I spent too much time troubleshooting why my files kept 
+overwriting themselves that by the time I could work with everything, I didn't have much time left.
+I've once again bit off a bit more than I could chew. But here I am. 
+
