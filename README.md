@@ -1,6 +1,5 @@
-# programming-portfolio
-Jacob Irving Mitchell
+# programming-fundamentals
+## Jacob Mitchell
 
-Web Developer and Cofounder of Frischly Made Tech: Website @ frischlymade.tech
-
-Variety of programs and projects written in C++, Java, C#, Python and Visual Basic
+Collection of programs written throughout my undergrad to show comprehension of programming fundamentals.
+To see website I manage, visit [frischlymade.tech](frischlymade.tech)
